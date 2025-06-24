@@ -144,7 +144,7 @@ Os documentos do trabalho (Readme, pdfs explicativos e apresentação) foram fei
 
 ---
 ## Referências
-- HONEYWELL Sensing and Control. SS49E Linear Hall Effect Sensor. Version 2.00, May 2001. Disponível em: https://sensing.honeywell.com/hall-effect-sensors-ss49e. Acesso em: 24 jun. 2025.
+- HONEYWELL Sensing and Control. SS49E Linear Hall Effect Sensor. Version 2.00, May 2001. Disponível em: https://sensing.honeywell.com/hall-effect-sensors-ss49e. Acesso em: 06 jun. 2025.
 
-- RYNDACK COMPONENTES. Usando um sensor de efeito Hall. Blog Ryndack, 20 mar. 2025. Disponível em: https://blog.ryndackcomponentes.com.br/usando-um-sensor-de-efeito-hall/. Acesso em: 24 jun. 2025.
+- RYNDACK COMPONENTES. Usando um sensor de efeito Hall. Blog Ryndack, 20 mar. 2025. Disponível em: https://blog.ryndackcomponentes.com.br/usando-um-sensor-de-efeito-hall/. Acesso em: 06 jun. 2025.
 
