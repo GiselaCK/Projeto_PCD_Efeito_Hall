@@ -1,4 +1,3 @@
-# Projeto_PCD_Efeito_Hall
 # HELLO, world! — Hall Effect Lab for Learning and Observation
 
 Integrantes: Edélio Gabriel Magalhães de Jesus, Gisela Ceresér Kassick, Giulia Sales Ferreira, Leonardo Ritchielly dos S Vieira
